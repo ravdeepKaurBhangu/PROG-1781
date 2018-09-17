@@ -1,0 +1,6 @@
+Z:\PROG 1781\LAbs\DataConversion\DataConversion\bin\Debug\DataConversion.exe.config
+Z:\PROG 1781\LAbs\DataConversion\DataConversion\bin\Debug\DataConversion.exe
+Z:\PROG 1781\LAbs\DataConversion\DataConversion\bin\Debug\DataConversion.pdb
+Z:\PROG 1781\LAbs\DataConversion\DataConversion\obj\Debug\DataConversion.csprojResolveAssemblyReference.cache
+Z:\PROG 1781\LAbs\DataConversion\DataConversion\obj\Debug\DataConversion.exe
+Z:\PROG 1781\LAbs\DataConversion\DataConversion\obj\Debug\DataConversion.pdb
