@@ -1,0 +1,6 @@
+Z:\New Z\COMP-1030\Labs\SwitchStatement\BankAccount\BankAccount\bin\Debug\BankAccount.exe.config
+Z:\New Z\COMP-1030\Labs\SwitchStatement\BankAccount\BankAccount\bin\Debug\BankAccount.exe
+Z:\New Z\COMP-1030\Labs\SwitchStatement\BankAccount\BankAccount\bin\Debug\BankAccount.pdb
+Z:\New Z\COMP-1030\Labs\SwitchStatement\BankAccount\BankAccount\obj\Debug\BankAccount.csprojResolveAssemblyReference.cache
+Z:\New Z\COMP-1030\Labs\SwitchStatement\BankAccount\BankAccount\obj\Debug\BankAccount.exe
+Z:\New Z\COMP-1030\Labs\SwitchStatement\BankAccount\BankAccount\obj\Debug\BankAccount.pdb
