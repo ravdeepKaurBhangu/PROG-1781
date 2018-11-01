@@ -1,0 +1,12 @@
+﻿using System;
+
+namespace Method12oct
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World!");
+        }
+    }
+}

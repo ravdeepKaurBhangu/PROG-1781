@@ -1,0 +1,6 @@
+Z:\PROG 1781\LAbs\DecisionStatements\DecisionStatements\bin\Debug\DecisionStatements.exe.config
+Z:\PROG 1781\LAbs\DecisionStatements\DecisionStatements\bin\Debug\DecisionStatements.exe
+Z:\PROG 1781\LAbs\DecisionStatements\DecisionStatements\bin\Debug\DecisionStatements.pdb
+Z:\PROG 1781\LAbs\DecisionStatements\DecisionStatements\obj\Debug\DecisionStatements.csprojResolveAssemblyReference.cache
+Z:\PROG 1781\LAbs\DecisionStatements\DecisionStatements\obj\Debug\DecisionStatements.exe
+Z:\PROG 1781\LAbs\DecisionStatements\DecisionStatements\obj\Debug\DecisionStatements.pdb

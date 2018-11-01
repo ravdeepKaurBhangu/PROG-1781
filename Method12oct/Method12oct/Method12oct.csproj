@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk" ToolsVersion="15.0">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <FileUpgradeFlags>40</FileUpgradeFlags>
+    <OldToolsVersion>15.0</OldToolsVersion>
+    <UpgradeBackupLocation>Z:\PROG 1781\LAbs\Method12oct\Backup\</UpgradeBackupLocation>
+  </PropertyGroup>
+</Project>
