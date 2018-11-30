@@ -1,0 +1,6 @@
+C:\Users\ravdeepk\Desktop\WritingClassesPractice\WritingClassesPractice\bin\Debug\WritingClassesPractice.exe.config
+C:\Users\ravdeepk\Desktop\WritingClassesPractice\WritingClassesPractice\bin\Debug\WritingClassesPractice.exe
+C:\Users\ravdeepk\Desktop\WritingClassesPractice\WritingClassesPractice\bin\Debug\WritingClassesPractice.pdb
+C:\Users\ravdeepk\Desktop\WritingClassesPractice\WritingClassesPractice\obj\Debug\WritingClassesPractice.csprojResolveAssemblyReference.cache
+C:\Users\ravdeepk\Desktop\WritingClassesPractice\WritingClassesPractice\obj\Debug\WritingClassesPractice.exe
+C:\Users\ravdeepk\Desktop\WritingClassesPractice\WritingClassesPractice\obj\Debug\WritingClassesPractice.pdb
